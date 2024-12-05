@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Stefan Posch]  
+# 👋 Hi, I'm Stefan Posch  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stefaPo-cl&color=brightgreen)  
 ![GitHub Followers](https://img.shields.io/github/followers/stefaPo-cl?label=Follow%20Me&style=social)  
