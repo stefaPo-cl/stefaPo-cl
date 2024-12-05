@@ -55,8 +55,7 @@ Welcome to my GitHub! I'm a passionate Mechatronics Student specializing in PLC/
 
 Here are some of my top projects:  
 
-- [**Filter Component Calculator**](https://github.com/your-username/project-name): Short description of the project.  
-- [**Another Project**](https://github.com/your-username/another-project): Brief details.  
+- [**Filter Component Calculator**](https://github.com/stefaPo-cl/FilterValueCalculator): A small component parameter calculator for Lumped element or Stub filters.  
 
 ---
 
